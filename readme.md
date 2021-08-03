@@ -7,7 +7,9 @@ Search for
 //push to sabnzbd
 
 $sabhost = "";
+
 $sabport = "8080";
+
 $sabapi = "";
 
 
