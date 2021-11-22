@@ -1,4 +1,5 @@
 # NZBFonkey
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](TDVLA45EDEXRC)
 
 ## Setup
 
